@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paul John Butad
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning REACT + DJANGO to be a fullstack dev
+- 🌱 I’m currently learning REACT + DJANGO and aiming to be a fullstack developer
 - 💞️ I’m looking to collaborate on to anyone who's also interested on the said tech stack
 - 📫 How to reach me? Just message me at my facebook: https://www.facebook.com/pauljohn.butad.3
 
