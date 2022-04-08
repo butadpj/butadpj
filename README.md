@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Paul John Butad || Frontend Dev
+## 👋 Hi, I’m Paul John Butad || Software Developer
 - 👨‍💻 Check my [dev portfolio](https://dev.butadpj.com)
 - 📫 How to reach me?:
    - Email me at my gmail: butadpj@gmail.com
